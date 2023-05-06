@@ -15,4 +15,6 @@ WRITE CHANGES HERE:
 
 https://www.figma.com/file/k3BzNkESzrejjGPL2AAVg4/PROTOTYE---FRONT-END?node-id=314-321&t=dzx8gmNHM7U4Utuq-0
 
+1. 
+https://www.youtube.com/watch?v=pZGcRHgmn8k
 
